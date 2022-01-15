@@ -1,0 +1,40 @@
+.h2{
+    text-align: center;
+}
+.uk-switcher uk-margin{
+    background-color: aliceblue;
+}
+/* .common{
+    background-color: #eee7e2;
+} */
+.uk-tab .uk-active a{
+    border-width: 1px;
+    border-color: #1e87f0;
+    color: #cfcece;
+    border-radius: 2%;
+}
+.demo{
+    margin-left: 30%;
+}
+.button{
+    margin-left: 35%;
+}
+label:remarks{
+    margin-left: 20%;
+}
+#accountremarks{
+    margin-left: 30px;
+}
+#adminremarks{
+    margin-left: 70px;
+}
+.uk-tab li{
+    box-shadow: 3px -2px 10px hsla(0, 3%, 56%, 0.58);
+}
+
+.tab .part01{
+    display: grid;
+    position: absolute;
+    width:10vw;
+    height: 33%;
+}
